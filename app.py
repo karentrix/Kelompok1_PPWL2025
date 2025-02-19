@@ -1,0 +1,1 @@
+print('Hai Kelompok 1')
